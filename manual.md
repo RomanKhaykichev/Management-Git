@@ -111,3 +111,5 @@ ___
 * [Сохранение изменений](https://www.atlassian.com/ru/git/tutorials/saving-changes)
 * [Проверка репозитория](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository)
 * [Отмена изменений](https://www.atlassian.com/ru/git/tutorials/undoing-changes)
+___
+## [**Using Git with Visual Studio Code**](https://www.youtube.com/watch?app=desktop&v=i_23KUAEtUM)
